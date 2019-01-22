@@ -1,0 +1,12 @@
+Begin Object Class=/Script/Engine.Texture2D Name="StainlessSteelLamp_AO"
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+   End Object
+   Begin Object Name="AssetImportData"
+   End Object
+   ImportedSize=(X=2048,Y=2048)
+   Source=(Id=9CAE09A84E7C5E34204FD4A3B20DC14D,SizeX=2048,SizeY=2048,NumSlices=1,NumMips=1,bPNGCompressed=True,Format=TSF_G8)
+   LightingGuid=DFED7BE54FB48A1B7DFB52B9AE10BCAA
+   AssetImportData=AssetImportData'"AssetImportData"'
+   SRGB=False
+   CompressionSettings=TC_Grayscale
+End Object
